@@ -1,6 +1,6 @@
 {
   "name": "react-native-switch-pro",
-  "version": "0.4.7-ms1",
+  "version": "0.4.7-ms2",
   "description": "an universal switcher for andriod and iOS",
   "main": "lib/index.js",
   "scripts": {
